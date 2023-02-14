@@ -48,3 +48,23 @@
 </div>
 
 ###
+
+<h2 align="center">My projects</h2>
+
+<p align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=Filmoteka-project-team-4)](https://github.com/KovalMaxim1989/Filmoteka-project-team-4)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-11)](https://github.com/KovalMaxim1989/goit-js-hw-11)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-10)](https://github.com/KovalMaxim1989/goit-js-hw-10)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-09)](https://github.com/KovalMaxim1989/goit-js-hw-09)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=icecream)](https://github.com/KovalMaxim1989/icecream)
+&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-markup-hw-08)](https://github.com/KovalMaxim1989/goit-markup-hw-08)
+
+</p>
+
+###
