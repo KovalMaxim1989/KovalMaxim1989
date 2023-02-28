@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maxim and I'm Front-End Developer from Ukraine 🟨🟦</h2>
+<h2 align="left">Hi 👋! My name is Maxim and I'm Front-End Developer from Kyiv, Ukraine 🟨🟦</h2>
 
 ###
 
