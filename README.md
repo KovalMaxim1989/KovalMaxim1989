@@ -60,9 +60,9 @@
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-11)](https://github.com/KovalMaxim1989/goit-js-hw-11)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-10)](https://github.com/KovalMaxim1989/goit-js-hw-10)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-react-hw-04-images)](https://github.com/KovalMaxim1989/goit-react-hw-04-images)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-js-hw-09)](https://github.com/KovalMaxim1989/goit-js-hw-09)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=goit-react-hw-05-movies)](https://github.com/KovalMaxim1989/goit-react-hw-05-movies)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KovalMaxim1989&repo=icecream)](https://github.com/KovalMaxim1989/icecream)
 &nbsp;
